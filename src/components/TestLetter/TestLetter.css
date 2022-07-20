@@ -1,0 +1,18 @@
+.test-letter{
+    font-size: 19px;
+    line-height: 19px;
+    font-family: consolas;
+    border-radius: 2.2px;
+
+}
+.test-letter-correct{
+    color: #558b2f;
+    background: #d4fcb7;
+}
+.test-letter-incorrect{
+    color: #bf360c;
+    background: #fac7b8;
+}
+.test-letter-not-attempted{
+    color: #353433;
+}

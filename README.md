@@ -2,7 +2,7 @@
 # FlashType
 Best website to test your typing speed.
 How fast you can type ? 
-[Go to FlashType](https://rohit-nandagawali.github.io/flashtype/)
+[Go to FlashType](https://rohit-nandagawali.github.io/FlasType/)
 
 ## Libraries used
 

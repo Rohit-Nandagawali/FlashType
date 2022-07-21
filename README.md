@@ -2,12 +2,12 @@
 # FlashType
 Best website to test your typing speed.
 How fast you can type ? 
-[Go to FlashType](https://rohit-nandagawali.github.io/FlasType/)
+[Go to FlashType](https://rohit-nandagawali.github.io/FlashType/)
 
 ## Libraries used
 
- - [For typewriter effect](https://www.npmjs.com/package/typewriter-effect)
- - [For animation](https://michalsnik.github.io/aos/)
+ - For typewriter effect - [https://www.npmjs.com/package/typewriter-effect](https://www.npmjs.com/package/typewriter-effect)
+ - For animation - [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
  
 ## Include the fonts and aos in index.html
 

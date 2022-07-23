@@ -33,6 +33,12 @@ How fast you can type ?
 
 http://metaphorpsum.com/paragraphs/1/9
 
+## How to run this app
+
+1. `git clone https://github.com/MadhavBahlMD/name-startup`
+2. `npm install`
+3. `npm start`
+
 ## Credits
 
 1. Flash Image taken from - http://www.pngmart.com/image/tag/flash

@@ -35,7 +35,7 @@ http://metaphorpsum.com/paragraphs/1/9
 
 ## How to run this app
 
-1. `git clone https://github.com/MadhavBahlMD/name-startup`
+1. `git clone https://github.com/Rohit-Nandagawali/FlashType`
 2. `npm install`
 3. `npm start`
 

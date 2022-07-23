@@ -33,12 +33,23 @@ How fast you can type ?
 
 http://metaphorpsum.com/paragraphs/1/9
 
+
 ## How to run this app
 
-1. `git clone https://github.com/Rohit-Nandagawali/FlashType`
-2. `npm install`
-3. `npm start`
+1. Clone the repository 
+ ```
+ git clone git clone https://github.com/Rohit-Nandagawali/FlashType
+ ```
+ 
+2. Install all the required packages 
+```
+npm install
+```
 
+3. Run the project
+```
+npm start
+```
 ## Credits
 
 1. Flash Image taken from - http://www.pngmart.com/image/tag/flash
